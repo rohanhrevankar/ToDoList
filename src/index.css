@@ -1,0 +1,10 @@
+*{
+  margin: 0%;
+  padding: 0%;
+}
+
+body{
+  background: linear-gradient(to right,rgba(0, 0, 255, 0.607), rgba(185, 103, 117, 0.168), rgba(185, 103, 117, 0.168), rgba(128, 0, 128, 0.618));
+  height: 100vh;
+  width: 100%;
+}
